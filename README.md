@@ -1,6 +1,6 @@
 # ij.start.canon
 
-[![ij.start.canon](Get-Started-Now.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](Get-Started-Now.png)](https://can.printredir.com)
 
 
 Canon printers are used across the world, and people prefer using a Canon printer, because of its advanced features such as it can scan documents and one can easily send faxes. **[ij.start.canon](https://iijstartcans.github.io)** is the canon printer official website which helps you to download and install your canon printer driver easily. Visit the website and learn the steps to connect canon printer with your wireless network.
